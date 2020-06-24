@@ -1,5 +1,5 @@
 package bankingproject.routes;
 
-public class transaction {
+public class Transaction {
 
 }
