@@ -1,5 +1,5 @@
 package bankingproject.controllers;
 
-public class adduser {
+public class UserApi {
 
 }
