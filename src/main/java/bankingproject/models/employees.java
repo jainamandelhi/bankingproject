@@ -1,5 +1,5 @@
 package bankingproject.models;
 
-public class employees {
+public class Employees {
 
 }
